@@ -1,0 +1,4 @@
+hmmlearn>=0.2.8
+numpy>=1.24.3
+biopython>=1.81
+matplotlib>=3.7.1
